@@ -1,0 +1,3 @@
+[submodule "telewave"]
+	path = telewave
+	url = https://github.com/arnoudplantinga/telewave.git
